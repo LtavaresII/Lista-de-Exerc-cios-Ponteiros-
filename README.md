@@ -1,1 +1,1 @@
-# Lista-de-Exerc-cios-Ponteiros-
+# Lista-de-Exercicios-Ponteiros-
