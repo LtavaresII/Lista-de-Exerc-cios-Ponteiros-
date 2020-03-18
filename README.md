@@ -7,13 +7,13 @@ Os ponteiros servem para utilizar o endereço da memoria da posição de uma var
 
 Questão 2:
 
-p == &i : 1;
+p == &i : 1
 
-*p - *q : -2;
+*p - *q : -2
 
-**&p : 3;
+**&p : 3
 
-3 - *p/(*q) + 7 : 10;
+3 - *p/(*q) + 7 : 10
 
 Questão 3:
 
@@ -28,6 +28,13 @@ Endereço de p :61fecc
 **&p+4: 9 (i+5)
 
 Questão 4:
+As ilegais são:
+
+p = i
+
+i = (*&)j
+
+q = *p
 
 Questão 5:
 
