@@ -7,10 +7,13 @@ Os ponteiros servem para utilizar o endereço da memoria da posição de uma var
 
 Questão 2:
 Respostas:
-p == &i : 1
-*p - *q : -2
-**&p : 3
-3 - *p/(*q) + 7 : 10
+p == &i : 1;
+
+*p - *q : -2;
+
+**&p : 3;
+
+3 - *p/(*q) + 7 : 10;
 
 Questão 3:
 
