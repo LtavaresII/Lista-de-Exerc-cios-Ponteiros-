@@ -17,6 +17,16 @@ p == &i : 1;
 
 Questão 3:
 
+Endereço de p :61fecc
+
+*p+2 :7 (i+2)
+
+**&p: 5 (i)
+
+3**p : 15 (3*i)
+
+**&p+4: 9 (i+5)
+
 Questão 4:
 
 Questão 5:
