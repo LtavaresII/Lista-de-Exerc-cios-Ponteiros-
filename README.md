@@ -6,7 +6,7 @@ Questão 1:
 Os ponteiros servem para utilizar o endereço da memoria da posição de uma variavel, assim mesmo que você modifique o valor de uma variavel por referência, ela ainda vai estar disponivel para ser utilizado, isso é muito util para desenvolvimentos de codigo, pois economiza espaço na memoria, e entre outros meios como alocação dinâmica de memoria.
 
 Questão 2:
-Respostas:
+
 p == &i : 1;
 
 *p - *q : -2;
