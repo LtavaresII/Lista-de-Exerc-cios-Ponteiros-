@@ -66,35 +66,37 @@ Questão 5:
 
 Questão 6:
 
-i = 0
-vet[0] = 1.1
-*(f + 0) = 1.1
-&vet[0] = 61FEB4
-(f + 0) = 61FEB4
+Contador/Valor/Valor/Endereco/Endereco:
 
-i = 1
-vet[1] = 2.2
-*(f + 1) = 2.2
-&vet[1] = 61FEB8
-(f + 1) = 61FEB8
+i = 0,
+vet[0] = 1.1,
+*(f + 0) = 1.1,
+&vet[0] = 61FEB4,
+(f + 0) = 61FEB4.
 
-i = 2
-vet[2] = 3.3
-*(f + 2) = 3.3
-&vet[2] = 61FEBC
-(f + 2) = 61FEBC
+i = 1,
+vet[1] = 2.2,
+*(f + 1) = 2.2,
+&vet[1] = 61FEB8,
+(f + 1) = 61FEB8.
 
-i = 3
-vet[3] = 4.4
-*(f + 3) = 4.4
-&vet[3] = 61FEC0
-(f + 3) = 61FEC0
+i = 2,
+vet[2] = 3.3,
+*(f + 2) = 3.3,
+&vet[2] = 61FEBC,
+(f + 2) = 61FEBC.
 
-i = 4
-vet[4] = 5.5
-*(f + 4) = 5.5
-&vet[4] = 61FEC4
-(f + 4) = 61FEC4
+i = 3,
+vet[3] = 4.4,
+*(f + 3) = 4.4,
+&vet[3] = 61FEC0,
+(f + 3) = 61FEC0.
+
+i = 4,
+vet[4] = 5.5,
+*(f + 4) = 5.5,
+&vet[4] = 61FEC4,
+(f + 4) = 61FEC4.
 
 Questão 7:
 
