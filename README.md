@@ -122,6 +122,10 @@ Nesse caso esse tipo de notação esta tentendo incrementar o valor de mat[], po
 
 Questão 9:
 
+O primeiro programa percore o vetor vet[] e imprime os valores de cada posição.
+
+O segundo percore vet[] e imprime os endereços de cada posição.
+
 Questão 10:
 
 Questão 11:
