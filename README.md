@@ -112,6 +112,14 @@ pulo + 4, Endereco da posicao 5: 6422220
 
 Questão 8:
 
+São validas: p = mat + 1, x = (*mat)++.
+
+Já que em p modifica o endereco da posição 1 do vetor mat[] e o x mostra o valor da primeira posição do vetor.
+
+Não são validas: p = mat++, p = ++mat.
+
+Nesse caso esse tipo de notação esta tentendo incrementar o valor de mat[], porem não é possivel fazer isso em uma variavel do tipo int[4](4 bytes).
+
 Questão 9:
 
 Questão 10:
