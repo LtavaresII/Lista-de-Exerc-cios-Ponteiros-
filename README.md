@@ -100,7 +100,15 @@ vet[4] = 5.5,
 
 Questão 7:
 
+pulo[5] = {1,2,3,4,5}
 
+*(pulo + 2), Posicao 3: 3
+
+*(pulo + 4), Posicao 5: 5
+
+pulo + 2, Endereco da posicao 3: 6422212
+
+pulo + 4, Endereco da posicao 5: 6422220
 
 Questão 8:
 
